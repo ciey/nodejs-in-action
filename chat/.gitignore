@@ -1,0 +1,7 @@
+#file is outside git version controll.
+node_modules
+node_modules/*
+package-lock.json
+.vscode
+.vscode/launch.json
+
